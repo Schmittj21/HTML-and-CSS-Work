@@ -1,0 +1,31 @@
+/*#CSS styles for Challange Problem 5 by John Schmitt*/
+body {
+  background-color: #b2ad7f;
+  color: #04415A;
+  margin: 0;
+}
+h1 {
+  text-align: left;
+  font-size:3rem;
+  color: #04415A
+}
+h2 {
+  text-align: left;
+  font-size:3rem;
+  color: #04415A;
+}
+h3 {
+  text-align: left;
+  font-size:3rem;
+  color: #04415A;
+}
+p{
+  color: #04415A;
+}
+#p1{
+  border-left: solid;
+  border-color : #A74A37;
+}
+a{
+  color: #A74A37;
+}
