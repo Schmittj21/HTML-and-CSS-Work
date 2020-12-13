@@ -68,6 +68,7 @@ h10 {
   color: Black; /* White text */
   padding: 10px 24px; /* padding */
   border-right: none;
+  border-top: none;
   border-bottom: none;
   border-left:none;
   cursor: pointer; /* Pointer/hand icon */
